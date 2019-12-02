@@ -1,0 +1,5 @@
+﻿--- Part 1 ---
+Fuel Required: 3402609
+
+--- Part 2 ---
+Fuel Required: 5101025
